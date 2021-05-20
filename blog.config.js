@@ -1,7 +1,7 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: 'vecpeng\'s blog',
+  author: 'vecpeng',
+  email: '841298391cp@gmail.com',
   link: 'https://vecpeng.com',
   description: 'Welcome to vecpeng\'s blog.',
   lang: 'en-US',
